@@ -1,0 +1,13 @@
+C:\Users\CCE\OneDrive\Área de Trabalho\signo-aval\obj\Debug\netcoreapp3.1\signo-aval.csprojAssemblyReference.cache
+C:\Users\CCE\OneDrive\Área de Trabalho\signo-aval\obj\Debug\netcoreapp3.1\signo-aval.AssemblyInfoInputs.cache
+C:\Users\CCE\OneDrive\Área de Trabalho\signo-aval\obj\Debug\netcoreapp3.1\signo-aval.AssemblyInfo.cs
+C:\Users\CCE\OneDrive\Área de Trabalho\signo-aval\obj\Debug\netcoreapp3.1\signo-aval.csproj.CoreCompileInputs.cache
+C:\Users\CCE\OneDrive\Área de Trabalho\signo-aval\bin\Debug\netcoreapp3.1\signo-aval.exe
+C:\Users\CCE\OneDrive\Área de Trabalho\signo-aval\bin\Debug\netcoreapp3.1\signo-aval.deps.json
+C:\Users\CCE\OneDrive\Área de Trabalho\signo-aval\bin\Debug\netcoreapp3.1\signo-aval.runtimeconfig.json
+C:\Users\CCE\OneDrive\Área de Trabalho\signo-aval\bin\Debug\netcoreapp3.1\signo-aval.runtimeconfig.dev.json
+C:\Users\CCE\OneDrive\Área de Trabalho\signo-aval\bin\Debug\netcoreapp3.1\signo-aval.dll
+C:\Users\CCE\OneDrive\Área de Trabalho\signo-aval\bin\Debug\netcoreapp3.1\signo-aval.pdb
+C:\Users\CCE\OneDrive\Área de Trabalho\signo-aval\obj\Debug\netcoreapp3.1\signo-aval.dll
+C:\Users\CCE\OneDrive\Área de Trabalho\signo-aval\obj\Debug\netcoreapp3.1\signo-aval.pdb
+C:\Users\CCE\OneDrive\Área de Trabalho\signo-aval\obj\Debug\netcoreapp3.1\signo-aval.genruntimeconfig.cache
